@@ -2,7 +2,7 @@
   "openAPIMode": "mqtt",
   "openAPIUrl": "openapi.tuyacn.com",
 
-  "clientId": "",
+  "clientId": "1",
   "secret": "",
 
   "authMode": "easy",
